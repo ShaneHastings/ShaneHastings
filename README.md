@@ -11,6 +11,7 @@
 
 - 👨‍🎓 BSc in Business Information Systems at NUI Galway (2017-21)
 - 🔐 Cybersecurity Internship at PwC Ireland (2020)
+- 🔐 Cybersecurity Consultant at PwC Ireland (2021 - Present)
 - 👩‍💻 Webmaster in the NUI Galway Computer Society (2020/21)
 
 
