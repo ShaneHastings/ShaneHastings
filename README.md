@@ -6,6 +6,7 @@
 ## Work
 
 - 👨‍💻 Infrastructure Engineer at Susquehanna International Group (SIG) (2022 - Present)
+- 🔐 Cybersecurity Consultant at PwC Ireland (2021 - 2022)
 
 ## Research at NUI Galway
 
@@ -13,7 +14,6 @@
 
 ## Graduate of NUI Galway
 
-- 🔐 Cybersecurity Consultant at PwC Ireland (2021 - 2022)
 - 👨‍🎓 BSc in Business Information Systems at NUI Galway (2017-21)
 - 🔐 Cybersecurity Internship at PwC Ireland (2020)
 
