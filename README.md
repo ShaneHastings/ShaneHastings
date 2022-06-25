@@ -4,7 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShaneHastingsIE?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ShaneHastingsIE)
 
 ## Work
-- 🔐 Cybersecurity Consultant at PwC Ireland (2021 - Present)
+
+- 👨‍💻 Infrastructure Engineer at Susquehanna International Group (SIG) (2022 - Present)
 
 ## Research at NUI Galway
 
@@ -12,6 +13,7 @@
 
 ## Graduate of NUI Galway
 
+- 🔐 Cybersecurity Consultant at PwC Ireland (2021 - 2022)
 - 👨‍🎓 BSc in Business Information Systems at NUI Galway (2017-21)
 - 🔐 Cybersecurity Internship at PwC Ireland (2020)
 
