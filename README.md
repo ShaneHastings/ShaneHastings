@@ -5,7 +5,8 @@
 
 ## Work
 
-- 👨‍💻 Infrastructure Engineer at Susquehanna International Group (SIG) (2022 - Present)
+- 👨‍💻 Trading Platform Engineer at Susquehanna International Group (SIG) (2024 - Present)
+- 👨‍💻 Infrastructure Engineer at Susquehanna International Group (SIG) (2022 - 2024)
 - 🔐 Cybersecurity Consultant at PwC Ireland (2021 - 2022)
 
 ## Research at NUI Galway
